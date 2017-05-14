@@ -1015,7 +1015,7 @@
   <screen name="OPENA_TV_HauptScreen" position="0,0" size="1920,1080" title="openATV Haupt Screen" backgroundColor="transparent" flags="wfNoBorders">
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1115,1017" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1215,1017" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget name="text_header" position="170,180" size="825,80" font="Regular;34" halign="center" valign="center" foregroundColor="lightblue" backgroundColor="bluelabel" transparent="0" zPosition="1" />
@@ -1193,7 +1193,7 @@
   </screen>
   <!-- NFR About FHD  -->
   <screen name="About" position="0,0" size="1920,1080" title="Image Information" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1120,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel name="vertikalline" position="1224,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
@@ -2547,7 +2547,7 @@
   <!--  NFR Oscam SmartCam FHD  -->
   <screen backgroundColor="transparent" flags="wfNoBorder" name="OscamSmartcard-Setup" position="0,0" size="1920,1080" title="OscamSmartcard">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1120,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1100,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap position="930,638" size="256,256" zPosition="2" pixmap="Blue-Line-OE/icons/net.png" transparent="1" />
@@ -2683,7 +2683,7 @@
   <!-- NFR PluginInstall FHD  -->
   <screen name="PluginInstall" position="center,center" size="1920,1080" title="Installiere Plugins" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel name="vertikalline" position="1219,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
@@ -2706,7 +2706,7 @@
   <!-- NFR PluginDeinstall FHD  -->
   <screen name="PluginDeinstall" position="0,0" size="1920,1080" title="Deinstalliere Plugins" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel name="vertikalline" position="1219,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
@@ -3284,7 +3284,7 @@
   </screen>
   <!-- GraphMultiEPG FHD -->
 <screen name="GraphMultiEPG" title="Electronic Program Guide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder" borderWidth="0" borderColor="transparent2">
-    <widget source="global.CurrentTime" render="Label" position="1120,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1125,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a.%d.%m   %H:%M</convert>
     </widget>
 <eLabel position="30,140" size="1325,253" foregroundColor="backgroundBlue" zPosition="0" transparent="0" />

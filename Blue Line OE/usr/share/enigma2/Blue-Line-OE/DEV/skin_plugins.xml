@@ -869,7 +869,7 @@
   <!-- ## CoolInfoGuide ## -->
   <screen name="CoolInfoGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Info Guide" position="15,20" size="420,57" font="Regular; 44" transparent="1" halign="left" />
@@ -914,7 +914,7 @@
   <!-- ## CoolMultiGuide ## -->
   <screen name="CoolMultiGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Multi Guide" position="15,20" size="440,57" font="Regular; 44" transparent="1" halign="left" />
@@ -972,7 +972,7 @@
   <!-- ## CoolNiceGuide ## -->
   <screen name="CoolNiceGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Nice Guide" position="15,20" size="440,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1030,7 +1030,7 @@
   <!-- ## CoolChannelGuide ## -->
   <screen name="CoolChannelGuide" position="0,0" size="1920,1080" title="Cool Channel Guide" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="my Cool TV Channel Guide" position="15,20" size="580,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1079,7 +1079,7 @@
   <!-- ## CoolChannelGuide2 ## -->
   <screen name="CoolChannelGuide2" position="0,0" size="1920,1080" title="Cool Channel Guide" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1400,30" size="300,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool Channel Guide" position="15,20" size="450,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1123,7 +1123,7 @@
   <!-- ## CoolSearch ## -->
   <screen name="CoolSearch" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool Search" position="15,20" size="300,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1174,7 +1174,7 @@
   <!-- ## CoolEasyGuide ## -->
   <screen name="CoolEasyGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="420,20" size="960,57" font="Regular;44" foregroundColor="white" backgroundColor="black" transparent="1" halign="center" />
@@ -1223,7 +1223,7 @@
   <!-- ## CoolSingleGuide ## -->
   <screen name="CoolSingleGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Single Guide" position="15,20" size="500,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1272,7 +1272,7 @@
   <!-- ## CoolTinyGuide ## -->
   <screen name="CoolTinyGuide" position="0,0" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Tiny Guide" position="15,20" size="420,57" font="Regular; 44" transparent="1" halign="left" />
@@ -1329,7 +1329,7 @@
   <!-- ## CoolTVGuide ## -->
   <screen name="CoolTVGuide" position="center,center" size="1920,1080" backgroundColor="transparent2" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1300,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1400,30" size="400,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel text="Cool TV Guide" position="15,20" size="350,57" font="Regular; 44" transparent="1" halign="left" />
@@ -2078,7 +2078,7 @@ self.instance.move(ePoint(0,0))
   <!-- TitleCutter FHD-->
   <screen name="TitleCutter" position="0,0" size="1920,1080" title="Cutlist editor" flags="wfNoBorder" backgroundColor="transparent">
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -2386,7 +2386,7 @@ self.instance.move(ePoint(0,0))
 </screen>
   <!-- MyTubePlayerMainScreen FHD-->
   <screen name="MyTubePlayerMainScreen" position="0,0" size="1920,1080" title="MyTube - Browser" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
@@ -2591,7 +2591,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- SHOUTcastWidget FHD-->
   <screen name="SHOUTcastWidget" position="0,0" size="1920,1080" title="SHOUTcast Setup" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1208,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -2615,7 +2615,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- SHOUTcastSetup FHD-->
   <screen name="SHOUTcastSetup" position="0,0" size="1920,1080" title="SHOUTcast Setup" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
@@ -2632,7 +2632,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- SHOUTcastStreamripperRecordingPath FHD-->
   <screen name="SHOUTcastStreamripperRecordingPath" position="0,0" size="1920,1080" title="Select record path for streamripper" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
@@ -3071,7 +3071,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- MSNWeatherPlugin FHD-->
   <screen name="MSNWeatherPlugin" backgroundColor="transparent" flags="wfNoBorder" position="0,0" size="1920,1080" title="Weather Plugin">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel name="vertikalline" position="1294,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
@@ -3272,7 +3272,7 @@ self.instance.move(ePoint(0,0))
     <widget name="description" position="1256,650" size="633,310" font="Regular;30" foregroundColor="white" halign="center" backgroundColor="background" valign="center" transparent="1" />
     <widget name="HelpWindow" position="1256,130" size="633,180" zPosition="1" transparent="1" alphatest="blend" />
     <widget name="footnote" position="31,915" size="1160,38" font="Regular;24" halign="right" valign="center" backgroundColor="background" foregroundColor="white" transparent="1" />
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -3296,7 +3296,7 @@ self.instance.move(ePoint(0,0))
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
     <ePixmap position="1380,570" size="384,384" pixmap="Blue-Line-OE/setup/media.png" alphatest="blend" />
     <eLabel name="vertikalline" position="1251,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
-    <widget source="global.CurrentTime" render="Label" position="1116,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1186,25" size="600,50" font="Regular; 36" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="10,25" size="900,50" font="Regular; 36" halign="left" valign="center" foregroundColor="white" backgroundColor="black" transparent="1" zPosition="1" />
@@ -3450,7 +3450,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- EMCImdbScan FHD-->
   <screen name="EMCImdbScan" position="0,0" size="1920,1080" title="EMC Cover search" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -3477,7 +3477,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- getCover FHD-->
   <screen name="getCover" position="0,0" size="1920,1080" title="EMC Cover Selecter" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -3527,7 +3527,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- MovieInfoTMDb FHD-->
   <screen name="MovieInfoTMDb" position="0,0" size="1920,1080" title="Movie Information TMDb" flags="wfNoBorder" backgroundColor="transparent">
-    <widget source="global.CurrentTime" render="Label" position="1118,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1188,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
    <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -4039,14 +4039,14 @@ self.instance.move(ePoint(0,0))
     </widget>
   </screen>
   <!-- TV Spielfilm -->
-<screen name="TVHeuteView" position="0,0" size="1920,1080" title="TV Programm - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
-  <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-  <widget source="global.CurrentTime" render="Label" position="1121,32" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
-    <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
-  </widget>
-  <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
-  <ePixmap position="30,10" size="116,66" pixmap="Blue-Line-OE/icons/tvspielfilm-hd.png" alphatest="blend" zPosition="1" />
- <widget name="sender1" position="88,160" size="245,40" font="Regular; 26" halign="left" zPosition="1" backgroundColor="background" />
+   <screen name="TVHeuteView" position="0,0" size="1920,1080" title="TV Programm - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
+    <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+      <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
+    </widget>
+    <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
+    <ePixmap position="30,10" size="116,66" pixmap="Blue-Line-OE/icons/tvspielfilm-hd.png" alphatest="blend" zPosition="1" />
+<widget name="sender1" position="88,160" size="245,40" font="Regular; 26" halign="left" zPosition="1" backgroundColor="background" />
 <widget name="sender2" position="400,160" size="245,40" font="Regular; 26" halign="left" zPosition="1" backgroundColor="background" />
 <widget name="sender3" position="713,160" size="245,40" font="Regular; 26" halign="left" zPosition="1" backgroundColor="background" />
 <widget name="sender4" position="1026,160" size="245,40" font="Regular; 26" halign="left" zPosition="1" backgroundColor="background" />
@@ -4076,12 +4076,12 @@ self.instance.move(ePoint(0,0))
 <widget name="pictext4" position="1042,380" size="230,85" font="Regular; 25" valign="top" halign="left" zPosition="1" backgroundColor="background" />
 <widget name="pictext5" position="1354,380" size="230,85" font="Regular; 25" valign="top" halign="left" zPosition="1" backgroundColor="background" />
 <widget name="pictext6" position="1667,380" size="230,85" font="Regular; 25" valign="top" halign="left" zPosition="1" backgroundColor="background" />
-<widget name="menu1" position="22,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
-<widget name="menu2" position="334,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
-<widget name="menu3" position="647,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
-<widget name="menu4" position="960,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
-<widget name="menu5" position="1273,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
-<widget name="menu6" position="1585,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" font="Regular; 20" />
+<widget name="menu1" position="22,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
+<widget name="menu2" position="334,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
+<widget name="menu3" position="647,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
+<widget name="menu4" position="960,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
+<widget name="menu5" position="1273,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
+<widget name="menu6" position="1585,475" size="311,460" scrollbarMode="showNever" zPosition="1" backgroundColor="background" backgroundColorSelected="trbluelabel" font="Regular; 20" />
 <widget name="label" position="397,1005" size="1125,70" alphatest="blend" zPosition="2" backgroundColor="background" transparent="1" foregroundColor="orange" font="Regular; 25" halign="center" />
 <widget name="labelpost" position="397,1005" size="1125,70" alphatest="blend" zPosition="2" backgroundColor="background" font="Regular; 25" foregroundColor="orange" halign="center" />
 <widget name="textpage" position="22,600" size="1875,340" font="Regular;28" halign="left" zPosition="1" backgroundColor="background" />
@@ -4107,7 +4107,7 @@ self.instance.move(ePoint(0,0))
   <!-- TV Spielfilm Blog -->
   <screen name="TVBlog" position="0,0" size="1920,1080" title="TV Spielfilm Blog" backgroundColor="transparent" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4128,7 +4128,7 @@ self.instance.move(ePoint(0,0))
   <screen name="TVTippsView" position="0,0" size="1920,1080" title="TV-Tipps - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap position="30,10" size="116,66" pixmap="Blue-Line-OE/icons/tvspielfilm-hd.png" alphatest="blend" zPosition="1" />
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4168,7 +4168,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVJetztView -->
   <screen name="TVJetztView" position="0,0" size="1920,1080" title=" " flags="wfNoBorder" backgroundColor="transparent" transparent="0">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4200,7 +4200,7 @@ self.instance.move(ePoint(0,0))
   <!--TVProgrammView -->
   <screen name="TVProgrammView" position="0,0" size="1920,1080" title="TV Programm - TV Spielfilm.de" flags="wfNoBorder" transparent="0" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4231,7 +4231,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVStory -->
   <screen name="TVStory" position="0,0" size="1920,1080" title="TV-Story - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4253,7 +4253,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVNeuView -->
   <screen name="TVNeuView" position="0,0" size="1920,1080" title="TV Neuerscheinungen - TV Spielfilm.de" backgroundColor="transparent" flags="wfNoBorder" transparent="0">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4290,7 +4290,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVGenreView -->
   <screen name="TVGenreView" position="0,0" size="1920,1080" title="TV Genre - TV Spielfilm.de" backgroundColor="transparent" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4324,7 +4324,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVNews -->
   <screen name="TVNews" position="0,0" title="TV-News - TV Spielfilm" size="1920,1080" backgroundColor="transparent" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4368,7 +4368,7 @@ self.instance.move(ePoint(0,0))
   <!-- TVPicShow -->
   <screen name="TVPicShow" position="0,0" size="1920,1080" title="Mehr Bilder - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1121,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1161,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="160,25" size="1200,50" font="Regular; 36" halign="left" valign="center" transparent="1" zPosition="1" />
@@ -4384,7 +4384,7 @@ self.instance.move(ePoint(0,0))
   <!-- Erotische Playmates - TV Spielfilm.de -->
   <screen name="PlayboyPicShow" position="0,0" size="1920,1080" title="Erotische Playmates - TV Spielfilm.de" flags="wfNoBorder" backgroundColor="transparent">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
-    <widget source="global.CurrentTime" render="Label" position="1120,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1184,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <eLabel name="vertikalline" position="1221,120" size="2,840" foregroundColor="backgroundBlue" backgroundColor="backgroundBlue" />
@@ -4480,7 +4480,7 @@ self.instance.move(ePoint(0,0))
   <screen name="tvsConfig" position="0,0" size="1920,1080" backgroundColor="transparent" title="TV Spielfilm Setup" flags="wfNoBorder">
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
     <ePixmap position="30,10" size="116,66" pixmap="Blue-Line-OE/icons/tvspielfilm-hd.png" alphatest="blend" zPosition="1" />
-    <widget source="global.CurrentTime" render="Label" position="1120,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1167,30" size="600,40" font="Regular; 32" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%a, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap position="1446,539" size="256,256" pixmap="Blue-Line-OE/icons/tv_spielfilm.png" transparent="1" alphatest="blend" />
@@ -4508,7 +4508,7 @@ self.instance.move(ePoint(0,0))
   <!-- ChefkochView -->
   <screen name="ChefkochView" position="0,0" size="1920,1080" title="Chefkoch" flags="wfNoBorder" backgroundColor="transparent">
     <eLabel text="Chefkoch" position="10,25" size="900,50" noWrap="1" valign="center" font="Regular; 36" backgroundColor="black" halign="center" transparent="1" zPosition="1" />
-    <widget source="global.CurrentTime" render="Label" position="1120,32" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1203,32" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -4577,7 +4577,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- ChefkochPicShow -->
   <screen name="ChefkochPicShow" position="0,0" size="1920,1080" title="Mehr Rezeptbilder - Chefkoch.de" backgroundColor="transparent" flags="wfNoBorder">
-    <widget source="global.CurrentTime" render="Label" position="1120,28" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1115,28" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
@@ -4781,7 +4781,7 @@ self.instance.move(ePoint(0,0))
   </screen>
   <!-- MusicExplorer -->
   <screen name="MusicExplorer" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
-    <widget source="global.CurrentTime" render="Label" position="1120,28" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
+    <widget source="global.CurrentTime" render="Label" position="1167,28" size="600,40" font="Regular; 30" halign="right" foregroundColor="white" backgroundColor="black" transparent="1">
       <convert type="ClockToText">Format:%A, %d.%m.%Y   %H:%M</convert>
     </widget>
     <ePixmap pixmap="Blue-Line-OE/menu/bg1920.png" position="0,0" zPosition="-20" size="1920,1080" />
